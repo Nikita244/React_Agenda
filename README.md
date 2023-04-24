@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# 🚀 Agenda with React app
+## Posted on Netlify: https://agendainreact.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
